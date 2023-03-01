@@ -24,7 +24,7 @@
 - [📝 License](#license)
 
 
-# 📖 [Morse-Decoder] <a name="about-project"></a>
+# 📖 Morse-Decoder <a name="about-project"></a>
 
 > Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, 
   called dots and dashes, or dits and dahs.[3][4] Morse code is named after Samuel Morse, one of the inventors of the telegraph.
@@ -61,16 +61,16 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
- install ruby on your device:
+ install ruby on your device
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder
 
 
 ### Install
 
-Install this project with Vs code:
+Install this project with Vs code
 
 
 ### Usage
@@ -81,8 +81,6 @@ To run the project, execute the following command:right click and run
 
 
 ## 👥 Authors <a name="authors"></a>
-
-## 👥 Authors <a name="Yilikal Teshome"></a>
 
 👤 **Giovanni Juliao**
 
@@ -95,10 +93,6 @@ To run the project, execute the following command:right click and run
 - GitHub: [@rmrmrmr](https://github.com/rmrmrmr)
 - Twitter: [@ricmtza](https://twitter.com/ricmtza)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/ricardo-mag)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +112,7 @@ Feel free to check the [issues page](https://github.com/d4nQw3rty/Morse-Decoder/
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project give it a star!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +122,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank Yilikal Teshome and Mahdi Aghaali for contributing and collaburating with me. 
+I would like to thank the Microverse program!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,15 +130,14 @@ I would like to thank Yilikal Teshome and Mahdi Aghaali for contributing and col
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[what is ruby]**
+- **What is ruby?**
 
-  - [A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.]
+  - A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
 
-- **[What is Morse code]**
+- **What is Morse code?**
 
-  - [ is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs.]
+  - It is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +145,7 @@ I would like to thank Yilikal Teshome and Mahdi Aghaali for contributing and col
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./license) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
