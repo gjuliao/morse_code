@@ -13,8 +13,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -61,21 +59,23 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
- install ruby on your device
+ [install ruby on your device](https://www.ruby-lang.org/en/documentation/installation/)
 
 ### Setup
 
 Clone this repository to your desired folder
+ `git clone git@github.com:gjuliao/morse_code.git`
 
 
 ### Install
 
-Install this project with Vs code
+Run `bundle install`
 
 
 ### Usage
 
-To run the project, execute the following command:right click and run
+To run the project, execute the following command:
+`right click` and `run`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,17 +110,14 @@ Feel free to check the [issues page](https://github.com/d4nQw3rty/Morse-Decoder/
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project give it a star!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank the Microverse program!
 
@@ -146,7 +143,5 @@ I would like to thank the Microverse program!
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./license) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
