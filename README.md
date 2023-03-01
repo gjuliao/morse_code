@@ -53,8 +53,6 @@ It has an elegant syntax that is natural to read and easy to write.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> They can use it to decode a Morse code.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
