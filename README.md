@@ -39,9 +39,9 @@ It has an elegant syntax that is natural to read and easy to write.
 ### Key Features <a name="key-features"></a>
 
 
-- **[ used in telecommunication to encode text]**
-- **[increase the efficiency of encoding]**
-- **[ each symbol is approximately inverse to the frequency of occurrence of the character that it represents in text of the English language. ]**
+- **used in telecommunication to encode text**
+- **increase the efficiency of encoding**
+- **each symbol is approximately inverse to the frequency of occurrence of the character that it represents in text of the English language.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
